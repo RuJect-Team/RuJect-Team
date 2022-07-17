@@ -26,12 +26,8 @@
 
 ---
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### О нас:
 RuJect Team - команда разработчиков из России :ru: .
 
 :mailbox: Связь с нами: RuJect.Team@gmail.com
+</div>
