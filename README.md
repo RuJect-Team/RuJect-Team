@@ -23,19 +23,6 @@ RuJect Team - команда разработчиков из России :ru: .
 
 ---
 
-### :hammer_and_wrench: Языки и инструменты :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Pytoh" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualCode" alt="VisualCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 10" alt="Windows 10" width="40" height="40"/>
-</div>
-
----
-
-### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rus07tam&theme=onedark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+### :fire: Статистика профиля :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuJect-Team&theme=onedark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rus07tam)](https://github.com/anuraghazra/github-readme-stats)
