@@ -18,6 +18,10 @@
 </h1>
 
 ---
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### :hammer_and_wrench: Языки которые использует наша команда:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
