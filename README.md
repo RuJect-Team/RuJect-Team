@@ -24,7 +24,4 @@ RuJect Team - команда разработчиков из России :ru: .
 :mailbox: Связь с нами: RuJect.Team@gmail.com
 
 ---
-
-### :fire: Статистика профиля :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuJect-Team&theme=onedark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuJect-Team)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RuJect-Team&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
