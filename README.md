@@ -40,14 +40,13 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ---
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### О нас:
 RuJect Team - команда разработчиков из России :ru: .
 
 :mailbox: Связь с нами: RuJect.Team@gmail.com
-
----
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuJect-Team&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuJect-Team&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuJect-Team&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuJect-Team&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuJect-Team&theme=solarized_dark)
