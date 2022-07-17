@@ -19,7 +19,7 @@
 
 ---
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=RuJect-Team)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RuJect_Team)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
