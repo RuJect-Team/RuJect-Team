@@ -24,4 +24,8 @@ RuJect Team - команда разработчиков из России :ru: .
 :mailbox: Связь с нами: RuJect.Team@gmail.com
 
 ---
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RuJect-Team&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuJect-Team&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuJect-Team&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuJect-Team&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuJect-Team&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RuJect-Team&theme=solarized_dark)
