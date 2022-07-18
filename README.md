@@ -29,5 +29,7 @@
 ### О нас:
 RuJect Team - команда разработчиков из России :ru: .
 
-:mailbox: Связь с нами: RuJect.Team@gmail.com
+#### Контакты:
+:mailbox: Почта: RuJect.Team@gmail.com
+:telegram: Телеграм: https://t.me/ruject_team
 </div>
